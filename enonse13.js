@@ -16,6 +16,5 @@ for(let i=0; i<tab.length;i++){
         break;
     }
 }
-
 console.log(tab.indexOf('3'));
 console.log(tab);
